@@ -277,7 +277,7 @@
     "react-redux": "^7.2.2",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-tag-autocomplete": "^6.1.0",
+    "react-tag-autocomplete": "^7.3.0",
     "react-tooltip": "^4.2.11",
     "rebuild": "^0.1.2",
     "redaction": "^5.1.1",
